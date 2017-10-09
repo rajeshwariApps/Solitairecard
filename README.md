@@ -1,0 +1,2 @@
+# Solitairecard
+version 1
